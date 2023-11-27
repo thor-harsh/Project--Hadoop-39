@@ -2,7 +2,11 @@
 
 <table>
   
-**In this project We will use Spark with Python to do an amazing stuff.Here we will work on the Spark DataFrame which will read this walmart_stock.csv as our dataset and complete the challenges as provided by Jose Portilla .** <br></br>
+**In this project We will use Spark with Python to do an amazing stuff.Here we will work on the Spark DataFrame which will read this cruise_ship_info.csv as our dataset and complete the challenges as provided by Jose Portilla .** <br></br>
+
+**Here is the Problem Statement** <br></br>
+
+**Congratulations! You've been contracted by Hyundai Heavy Industries to help them build a predictive model for some ships. Hyundai Heavy Industries is one of the world's largest ship manufacturing companies and builds cruise liners.You've been flown to their headquarters in Ulsan, South Korea to help them give accurate estimates of how many crew members a ship will require.They are currently building new ships for some customers and want you to create a model and use it to predict how many crew members the ships will need.** <br></br>
 
 **Before jumping to the code lets understand Spark and Linear Regression First**...<br></br>
 
