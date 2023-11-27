@@ -2,9 +2,9 @@
 
 <table>
   
-**In this project We will use Spark with Python to do an amazing stuff.Here we will work on the Spark DataFrame which will read this cruise_ship_info.csv as our dataset and complete the challenges as provided by Jose Portilla .** <br></br>
+**In this project We will use Spark with Python to do an amazing stuff.Here we will work on the Spark DataFrame which will read the csv files attached above as our dataset and complete the challenges as provided by Jose Portilla .** <br></br>
 
-Here is the Problem Statement! <br></br>
+**Here is the Problem Statement!** <br></br>
 
 **Congratulations!** You've been contracted by Hyundai Heavy Industries to help them build a predictive model for some ships.<br> Hyundai Heavy Industries is one of the world's largest ship manufacturing companies and builds cruise liners.You've been flown to their headquarters in Ulsan, South Korea to help them give accurate estimates of how many crew members a ship will require.<br></br>They are currently building new ships for some customers and want you to create a model and use it to predict how many crew members the ships will need. So our job is to find the no. of crews required in each ship. <br></br>
 
@@ -31,7 +31,7 @@ Train machine learning algorithms on a laptop and use the same code to scale to 
  Linear Regression is the supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable i.e it finds the linear relationship between the dependent and independent variable.<br></br>
 
 
-**Important Note: Go through the walmart_stock.csv file before jumping to the code.**
+**Important Note: Go through the cruise_ship_info.csv file before jumping to the code.**
 
 
 </table>
