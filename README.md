@@ -23,6 +23,10 @@ Train machine learning algorithms on a laptop and use the same code to scale to 
 **5**: Columns = features<br></br>
 **6**: Rows = records<br></br>
 
+**What is Linear Regression**?<br></br>
+ Linear Regression is the supervised Machine Learning model in which the model finds the best fit linear line between the independent and dependent variable i.e it finds the linear relationship between the dependent and independent variable.<br></br>
+
+
 **Important Note: Go through the walmart_stock.csv file before jumping to the code.**
 
 
