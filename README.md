@@ -1,6 +1,5 @@
 # Project--Hadoop-39
 
-
 <table>
   
 **In this project We will use Spark with Python to do an amazing stuff.Here we will work on the Spark DataFrame which will read this walmart_stock.csv as our dataset and complete the challenges as provided by Jose Portilla .** <br></br>
